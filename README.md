@@ -10,9 +10,6 @@ https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/reminder-proces
 https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/gental-reminder.html
 https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/fractional.html
 https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/fd.html
-
 https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/bond.html
-
-https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/p2p=lending.html
-
+https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/p2p-lending.html
 https://sarfarajtechaxion.github.io/Steady-Income-Email-Template/fractional-thank-you.html
